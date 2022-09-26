@@ -1,0 +1,12 @@
+{
+  "name": "gql-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rajatk16/gql-todo.git",
+  "author": "Rajat Sudagade <rajat.sudagade@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
